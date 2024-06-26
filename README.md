@@ -1,6 +1,8 @@
 <h1 align="center">PROJECT - LIBRARY MANAGEMENT SYSTEM</h1>
 <h3 align="center">A user-friendly Java application for managing database in a library. The application allows CRUD operations for Users, Books, Publishers and Authors.</h3>
 
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
+
 - 🔭 You can see the demo here [LIBRARY MANAGEMENT SYSTEM](https://drive.google.com/drive/folders/1R1v6BCQlF-krzNIexgrmXHkRYZpItAiJ?usp=sharing)
 
 - 📫 Mail - **kalpitgnagar@gmail.com**
